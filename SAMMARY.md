@@ -6,9 +6,9 @@
 
   * [01 时间管理](ch00/20170502 TED Time is a choice.md)
 
+  _    
   _  
-  _  
-  _  
+  _    
   _  
   \*
 
@@ -68,7 +68,7 @@
     * [10.2Sources](ch02/10.References.md#Sources)
   * [11 Further reading](ch02/11.Further reading.md)
   * [12 External links](ch02/12.External links.md)
-  * 
+  * * 
 
 
 
