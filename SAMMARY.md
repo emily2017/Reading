@@ -12,7 +12,7 @@
   *
   *
 
-* [01.《少有人走的路》阅读笔记](ch01/README.md)
+* [01.Road Less Travelled](ch01/README.md)
 
   * [第一章  自律](ch01/01.Self discipline.md)
 
@@ -22,7 +22,7 @@
 
   * [第四章  恩典](ch01/04.Grace.md)
 
-* [02.心理学百科](ch02/README.MD)
+* [02.Psychology](ch02/README.MD)
 
   * [0 Introduction](ch02/00.Introduction.md)
   * [1 Etymology and definitions](ch02/01.Etymology and definitions.md)
