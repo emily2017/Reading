@@ -1,13 +1,13 @@
 # Summary
 
-* [introduction](README.md)
+* [笔记简介](README.md)
 
-* [Articles](ch0/README.md)
+* [碎片阅读笔记](ch0/README.md)
 
   * [01 时间管理](ch0/20170502 TED Time is a choice.md)
 
 
-* [Road Less Travelled](ch1/README.md)
+* [《少有人走的路》阅读笔记](ch1/README.md)
 
   * [第一章  自律](ch1/01.Self Discipline.md)
 
@@ -17,7 +17,7 @@
 
   * [第四章  恩典](ch1/04.Grace.md)
 
-* [Psychology](ch2/README.MD)
+* [心理学百科](ch2/README.MD)
 
   * [0 Introduction](ch2/00.Introduction.md)
   * [1 Etymology and definitions](ch2/01.Etymology and definitions.md)
