@@ -1,20 +1,15 @@
 # Summary
 
-* [ntroduction](README.md)
+* [introduction](README.md)
 
-* [00.碎片阅读](ch00/README.md)
+* [碎片阅读](ch00/README.md)
 
   * [01 时间管理](ch00/20170502 TED Time is a choice.md)
 
-  _    
-  _  
-  _    
-  _  
-  \*
 
-* [01.Road Less Travelled](ch01/README.md)
+* [Road Less Travelled](ch01/README.md)
 
-  * [第一章  自律](ch01/01.Self discipline.md)
+  * [第一章  自律](ch01/01.Self Discipline.md)
 
   * [第二章  爱](ch01/02.Love.md)
 
@@ -22,7 +17,7 @@
 
   * [第四章  恩典](ch01/04.Grace.md)
 
-* [02.Psychology](ch02/README.MD)
+* [Psychology](ch02/README.MD)
 
   * [0 Introduction](ch02/00.Introduction.md)
   * [1 Etymology and definitions](ch02/01.Etymology and definitions.md)
@@ -68,7 +63,4 @@
     * [10.2Sources](ch02/10.References.md#Sources)
   * [11 Further reading](ch02/11.Further reading.md)
   * [12 External links](ch02/12.External links.md)
-  * * 
-
-
-
+  * ​
